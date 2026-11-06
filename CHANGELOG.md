@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.0 — 2026-11-06
+
+- Published the supplied `WarZone_IRAQ_IRON87_V2.0_NORTH_BLUE_SOUTH_RED.miz` as the current mission, without changing its bytes or embedded scripts.
+- Created the downloadable GitHub release `v2.0` with mission, release notes and SHA-256 checksum.
+- Updated English/Italian version labels and download links, plus installation instructions and package checksums.
+- Retained the campaign banner and previous V1.0 package/history.
+
 ## 1.0 — Iraq message labels (2026-11-06)
 
 - Replaced the common `WARZONE CAUCASUS // OPERATIONAL NET` footer with `WARZONE IRAQ // OPERATIONAL NET`, including its duplicate-formatting guard.

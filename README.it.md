@@ -2,10 +2,10 @@
 
 # WarZone Iraq
 
-**DCS World · Iraq · Campagna dinamica Modern · Versione 1.0**  
+**DCS World · Iraq · Campagna dinamica Modern · Versione 2.0**  
 Creata da **IRON87ITA**.
 
-[Scarica la missione](https://github.com/Iron87ita/WarZone-Iraq/raw/refs/heads/main/WarZone_IRAQ_IRON87_V1.0_NORTH_BLUE_SOUTH_RED.miz) · [Guida F10](F10_GUIDE.md) · [Settori](SECTORS.md) · [English](README.md)
+[Scarica la V2.0](https://github.com/Iron87ita/WarZone-Iraq/releases/download/v2.0/WarZone_IRAQ_IRON87_V2.0_NORTH_BLUE_SOUTH_RED.miz) · [Guida F10](F10_GUIDE.md) · [Settori](SECTORS.md) · [English](README.md)
 
 La logica della WarZone Caucaso 4.48, adattata all'Iraq: **nord BLUE, sud RED**, sei settori progressivi e 42 obiettivi terrestri.
 
@@ -31,8 +31,8 @@ Servono **DCS World**, la mappa **Iraq** e le mod delle unità presenti nella mi
 2. Aprilo in DCS oppure aggiungilo all'elenco missioni del server.
 3. Entra in una coalizione e usa **F10 → WARZONE MISSIONS**.
 
-Il salvataggio dedicato resta `Missions\Saves\Modern\WarZone_IRAQ_MODERN_V448_NORTH_BLUE_SOUTH_RED.lua`. Esegui una copia del salvataggio prima di aggiornare una campagna in corso. Il numero V448 è un identificatore interno ereditato; la versione pubblica di questa missione è **1.0**.
+Il salvataggio dedicato resta `Missions\Saves\Modern\WarZone_IRAQ_MODERN_V448_NORTH_BLUE_SOUTH_RED.lua`. Esegui una copia del salvataggio prima di aggiornare una campagna in corso. Il numero V448 è un identificatore interno ereditato; la versione pubblica di questa missione è **2.0**.
 
 La portaerei BLUE nel Golfo resta un supporto separato dal fronte terrestre. Non vengono generate incursioni navali nell'entroterra.
 
-La missione V1.0 fornita dall'autore include una correzione dei soli testi: le scritte Caucasus nei messaggi operativi, nei rapporti di ricognizione, nel log EWRS e nel briefing sono state sostituite con Iraq. Logica di gioco e percorso del salvataggio restano invariati. Durante questa pubblicazione non sono stati eseguiti test di gioco in DCS. [Crediti](CREDITS.md) · [Checksum](SHA256SUMS.txt).
+Il pacchetto corrente è la V2.0 fornita da IRON87ITA, pubblicata senza ricostruire o modificare la missione. Restano gli identificatori interni Lua e il percorso dedicato del salvataggio Iraq. La V1.0 resta disponibile nello storico e nell'elenco dei file del repository. Durante questa pubblicazione non sono stati eseguiti test di gioco in DCS. [Crediti](CREDITS.md) · [Checksum](SHA256SUMS.txt).

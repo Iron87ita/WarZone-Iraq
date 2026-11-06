@@ -2,10 +2,10 @@
 
 # WarZone Iraq
 
-**DCS World · Iraq · Modern dynamic sector campaign · Version 1.0**  
+**DCS World · Iraq · Modern dynamic sector campaign · Version 2.0**  
 Created by **IRON87ITA**.
 
-[Download the mission](https://github.com/Iron87ita/WarZone-Iraq/raw/refs/heads/main/WarZone_IRAQ_IRON87_V1.0_NORTH_BLUE_SOUTH_RED.miz) · [Install](INSTALLATION.md) · [F10 guide](F10_GUIDE.md) · [Sector map](SECTORS.md) · [Italiano](README.it.md)
+[Download v2.0](https://github.com/Iron87ita/WarZone-Iraq/releases/download/v2.0/WarZone_IRAQ_IRON87_V2.0_NORTH_BLUE_SOUTH_RED.miz) · [Install](INSTALLATION.md) · [F10 guide](F10_GUIDE.md) · [Sector map](SECTORS.md) · [Italiano](README.it.md)
 
 WarZone Iraq brings the WarZone Caucasus 4.48 campaign logic to Iraq: a persistent battlefield with **BLUE in the north**, **RED in the south** and a progressive operational front. Both coalitions can request missions, control their own AI tempo, deploy support assets and fight over the next sector.
 
@@ -41,11 +41,11 @@ Both BLUE and RED EWRs use dedicated open emplacements. The placement rules requ
 ## Quick start
 
 1. Install DCS World, the **Iraq terrain** and the unit mods used by this mission. See [requirements](INSTALLATION.md#requirements).
-2. Download `WarZone_IRAQ_IRON87_V1.0_NORTH_BLUE_SOUTH_RED.miz` and copy it to your DCS `Missions` folder.
+2. Download `WarZone_IRAQ_IRON87_V2.0_NORTH_BLUE_SOUTH_RED.miz` and copy it to your DCS `Missions` folder.
 3. Open it in DCS or add it to your dedicated server mission list.
 4. Join a coalition and open **F10 → WARZONE MISSIONS**.
 
-**This supplied package uses the Modern configuration.** Its public release version is **1.0**; inherited Lua names and the campaign save filename retain the internal V448 identifier.
+**This supplied package uses the Modern configuration.** Its public release version is **2.0**; inherited Lua names and the campaign save filename retain the internal V448 identifier.
 
 ## Persistence
 
@@ -59,7 +59,7 @@ The actual DCS profile folder may be `DCS`, `DCS.openbeta` or a dedicated-server
 
 ## Package status
 
-The `.miz` is based on the V1.0 supplied by IRON87ITA. A text-only correction replaces inherited Caucasus labels with Iraq in operational messages, reconnaissance reports, EWRS logging and the briefing. Gameplay and the campaign save path are unchanged. [SHA256SUMS.txt](SHA256SUMS.txt) records the mission and banner checksums. No DCS play session or gameplay test suite was run for this publication.
+The current `.miz` is the exact V2.0 package supplied by IRON87ITA. It is published without rebuilding or modifying the mission. The inherited internal Lua identifiers and dedicated Iraq campaign save filename remain in use. The V1.0 package remains available in the repository history and file list. [SHA256SUMS.txt](SHA256SUMS.txt) records the mission and banner checksums. No DCS play session or gameplay test suite was run for this publication.
 
 ## Credits and feedback
 
