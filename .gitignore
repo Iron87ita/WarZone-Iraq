@@ -1,0 +1,6 @@
+# Local campaign and editor state
+*.bak
+*.log
+Saves/
+.DS_Store
+Thumbs.db
