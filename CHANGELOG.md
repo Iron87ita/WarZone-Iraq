@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0 — Iraq message labels (2026-11-06)
+
+- Replaced the common `WARZONE CAUCASUS // OPERATIONAL NET` footer with `WARZONE IRAQ // OPERATIONAL NET`, including its duplicate-formatting guard.
+- Updated reconnaissance report headings, EWRS startup logging and briefing labels to Iraq.
+- Updated the package checksum. Gameplay, internal identifiers and the campaign save filename are unchanged.
+
 ## 1.0 — 2026-11-06
 
 Initial WarZone Iraq repository publication, using the supplied `WarZone_IRAQ_IRON87_V1.0_NORTH_BLUE_SOUTH_RED.miz` unchanged.

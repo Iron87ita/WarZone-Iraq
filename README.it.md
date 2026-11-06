@@ -35,4 +35,4 @@ Il salvataggio dedicato resta `Missions\Saves\Modern\WarZone_IRAQ_MODERN_V448_NO
 
 La portaerei BLUE nel Golfo resta un supporto separato dal fronte terrestre. Non vengono generate incursioni navali nell'entroterra.
 
-Il file pubblicato è identico alla V1.0 fornita dall'autore. Durante questa pubblicazione non sono stati eseguiti test di gioco in DCS. [Crediti](CREDITS.md) · [Checksum](SHA256SUMS.txt).
+La missione V1.0 fornita dall'autore include una correzione dei soli testi: le scritte Caucasus nei messaggi operativi, nei rapporti di ricognizione, nel log EWRS e nel briefing sono state sostituite con Iraq. Logica di gioco e percorso del salvataggio restano invariati. Durante questa pubblicazione non sono stati eseguiti test di gioco in DCS. [Crediti](CREDITS.md) · [Checksum](SHA256SUMS.txt).

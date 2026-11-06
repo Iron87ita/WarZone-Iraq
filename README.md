@@ -59,7 +59,7 @@ The actual DCS profile folder may be `DCS`, `DCS.openbeta` or a dedicated-server
 
 ## Package status
 
-The `.miz` in this repository is the exact V1.0 file supplied by IRON87ITA, without a mission rebuild or gameplay changes during publication. [SHA256SUMS.txt](SHA256SUMS.txt) records the mission and banner checksums. No DCS play session or gameplay test suite was run for this publication.
+The `.miz` is based on the V1.0 supplied by IRON87ITA. A text-only correction replaces inherited Caucasus labels with Iraq in operational messages, reconnaissance reports, EWRS logging and the briefing. Gameplay and the campaign save path are unchanged. [SHA256SUMS.txt](SHA256SUMS.txt) records the mission and banner checksums. No DCS play session or gameplay test suite was run for this publication.
 
 ## Credits and feedback
 
