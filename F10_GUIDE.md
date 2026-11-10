@@ -12,7 +12,7 @@ Open **F10 → WARZONE MISSIONS → REQUEST MISSION TYPE**, or use **REQUEST NEW
 | SEAD | Destroy the designated enemy air-defense group. |
 | STRIKE | Destroy the remaining designated strategic static targets. Sector capture is not required for the strike itself. |
 
-CAP and BARCAP patrol progress requires the requesting player; the objective must be closed through safe return to a friendly base or carrier. Use **CURRENT MISSION** for the assigned objective and **CANCEL MISSION** to release tasking. Territorial missions use coalition-wide state; live AI target assignments below are managed separately per player group.
+CAP and BARCAP patrol progress requires the requesting player; the objective must be closed through safe return to a friendly land base. Use **CURRENT MISSION** for the assigned objective and **CANCEL MISSION** to release tasking. Territorial missions use coalition-wide state; live AI target assignments below are managed separately per player group.
 
 ## AI CONTROL
 

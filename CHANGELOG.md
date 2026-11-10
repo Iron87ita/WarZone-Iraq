@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.1 — 2026-11-10
+
+- Removed USS John C. Stennis, its two NATO escorts, the carrier aircraft slots and the associated naval zones.
+- Updated the English mission briefing, briefing image and all six kneeboard pages.
+- Aligned the guides with all six sectors active from mission start.
+
 ## 3.0 — 2026-11-10
 
 - Published the supplied WarZone_IRAQ_IRON87_V3.0.miz mission and its SHA-256 checksum.

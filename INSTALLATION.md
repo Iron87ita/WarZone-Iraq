@@ -22,7 +22,7 @@ MOOSE, MIST and the campaign's supporting scripts are already embedded in the `.
 
 ## Install
 
-1. Download `WarZone_IRAQ_IRON87_V3.0.miz`.
+1. Download `WarZone_IRAQ_IRON87_V3.0.1.miz`.
 2. Copy it into the `Missions` directory of your DCS Saved Games profile.
 3. Open it in DCS or add it to the dedicated server mission list.
 4. Join an aircraft slot or use the available dynamic aircraft interface at a friendly base. Open **F10 → WARZONE MISSIONS** after joining.
@@ -41,8 +41,8 @@ The path is relative to the active DCS Saved Games profile. Persistent saving re
 
 For an ongoing campaign, stop the mission and back up the save before replacing the `.miz`. Keep the existing compatible Iraq save to continue. To start a fresh campaign, stop the mission and move that save to a backup location before restarting. Caucasus campaign saves use a different configuration and should not be substituted.
 
-Zone ownership, sector unlocks, wallets and surviving shop assets are persistent. AI tempo selections and live AI task assignments are session state. Saved EWRs are redeployed through the open-emplacement placement rules.
+Zone ownership, sector progress, wallets and surviving shop assets are persistent. AI tempo selections and live AI task assignments are session state. Saved EWRs are redeployed through the open-emplacement placement rules.
 
 ## Package integrity
 
-`SHA256SUMS.txt` contains checksums for the exact supplied `.miz` and banner. Publication does not modify or repackage the mission itself.
+`SHA256SUMS.txt` contains checksums for the exact supplied `.miz` and banner. Verify the downloaded package against the checksum for its version.

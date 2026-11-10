@@ -2,10 +2,10 @@
 
 # WarZone Iraq
 
-**DCS World · Iraq · Modern dynamic sector campaign · Version 3.0**  
+**DCS World · Iraq · Modern dynamic sector campaign · Version 3.0.1**  
 Created by **IRON87ITA**.
 
-[Download v3.0](https://github.com/Iron87ita/WarZone-Iraq/releases/download/v3.0/WarZone_IRAQ_IRON87_V3.0.miz) · [Install](INSTALLATION.md) · [F10 guide](F10_GUIDE.md) · [Sector map](SECTORS.md) · [Italiano](README.it.md)
+[Download v3.0.1](https://github.com/Iron87ita/WarZone-Iraq/releases/download/v3.0.1/WarZone_IRAQ_IRON87_V3.0.1.miz) · [Install](INSTALLATION.md) · [F10 guide](F10_GUIDE.md) · [Sector map](SECTORS.md) · [Italiano](README.it.md)
 
 WarZone Iraq brings the WarZone Caucasus 4.48 campaign logic to Iraq: a persistent battlefield with **BLUE in the north**, **RED in the south** and a progressive operational front. Both coalitions can request missions, control their own AI tempo, deploy support assets and fight over the next sector.
 
@@ -16,9 +16,9 @@ WarZone Iraq brings the WarZone Caucasus 4.48 campaign logic to Iraq: a persiste
 | BLUE / NATO | Mosul, Bashur, Erbil, Tal Afar and the Qayyarah / Makhmur front | **S3 → S4 → S5 → S6**, south toward Baghdad and Al Kut |
 | RED / RF | Kirkuk, Sulaimaniyah, central Iraq, the Euphrates corridor and Baghdad | **S3 → S2 → S1**, north toward Mosul and Tal Afar |
 
-**Six sectors, 42 land objectives.** The initial active sector is **S3 — Qayyarah / Kirkuk**. Securing the entire operational sector unlocks the next stage. Previously unlocked sectors stay operational. Locked sectors retain airfield/staging access; campaign defenses, income, capture and objectives activate when unlocked.
+**Six sectors and 42 land objectives are active from mission start.** The opening front is **S3 — Qayyarah / Kirkuk**. Secure every zone in a sector and control your coalition’s full axis to win.
 
-The BLUE carrier group in the Persian Gulf provides separate naval aviation and logistics support. The inland campaign does not generate naval raids.
+Aircraft spawn and recover at friendly land bases and FARPs.
 
 ## Features
 
@@ -41,11 +41,11 @@ Both BLUE and RED EWRs use dedicated open emplacements. The placement rules requ
 ## Quick start
 
 1. Install DCS World, the **Iraq terrain** and the unit mods used by this mission. See [requirements](INSTALLATION.md#requirements).
-2. Download `WarZone_IRAQ_IRON87_V3.0.miz` and copy it to your DCS `Missions` folder.
+2. Download `WarZone_IRAQ_IRON87_V3.0.1.miz` and copy it to your DCS `Missions` folder.
 3. Open it in DCS or add it to your dedicated server mission list.
 4. Join a coalition and open **F10 → WARZONE MISSIONS**.
 
-**This supplied package uses the Modern configuration.** Its public release version is **3.0**; inherited Lua names and the campaign save filename retain the internal V448 identifier.
+**This supplied package uses the Modern configuration.** Its public release version is **3.0.1**; inherited Lua names and the campaign save filename retain the internal V448 identifier.
 
 ## Persistence
 
@@ -59,7 +59,7 @@ The actual DCS profile folder may be `DCS`, `DCS.openbeta` or a dedicated-server
 
 ## Package status
 
-The current `.miz` is the exact V3.0 package supplied by IRON87ITA. It is published without rebuilding or modifying the mission. The inherited internal Lua identifiers and dedicated Iraq campaign save filename remain in use. The V1.0 and V2.0 packages remain available in the repository. [SHA256SUMS.txt](SHA256SUMS.txt) records the mission and banner checksums. No DCS play session or gameplay test suite was run for this publication.
+Version 3.0.1 removes the NATO naval groups and carrier slots and includes an updated English briefing and six English kneeboard pages. Earlier packages remain available in the repository. [SHA256SUMS.txt](SHA256SUMS.txt) records the mission and banner checksums. No DCS play session or gameplay test suite was run for this publication.
 
 ## Credits and feedback
 

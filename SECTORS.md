@@ -1,6 +1,6 @@
 # Sector campaign
 
-The initial active sector is **S3**. BLUE advances south through **3 → 4 → 5 → 6**. RED advances north through **3 → 2 → 1**. Complete control of the operational sector unlocks the next sector; previously unlocked sectors stay open.
+All six sectors are active from mission start. The opening front is **S3**. BLUE advances south through **3 → 4 → 5 → 6**. RED advances north through **3 → 2 → 1**. Secure every zone in a sector and control your coalition’s full axis to win.
 
 | Sector | Area | Objectives |
 |---|---|---|
@@ -13,6 +13,6 @@ The initial active sector is **S3**. BLUE advances south through **3 → 4 → 5
 
 S1 and S2 start BLUE. Within S3, Qayyarah, Makhmur, FARP Hotel and Bunker Site start BLUE; the other S3 objectives start RED. S4, S5 and S6 start RED.
 
-Locked sectors retain runway and staging access. Their campaign defenses, income, capture and objectives wait until unlock. Use the coalition **Sector Campaign → Sector status** F10 menu for the current state; an ongoing save may differ from the initial arrangement above.
+Campaign defenses, income, capture and objectives are active across all six sectors. Use the coalition **Sector Campaign → Sector status** F10 menu for the current state; an ongoing save may differ from the initial arrangement above.
 
-The BLUE Gulf carrier group is outside the land-sector progression and remains a separate support asset.
+Player aircraft use friendly land airfields and FARPs.
