@@ -22,7 +22,7 @@ MOOSE, MIST and the campaign's supporting scripts are already embedded in the `.
 
 ## Install
 
-1. Download `WarZone_IRAQ_IRON87_V2.0_NORTH_BLUE_SOUTH_RED.miz`.
+1. Download `WarZone_IRAQ_IRON87_V3.0.miz`.
 2. Copy it into the `Missions` directory of your DCS Saved Games profile.
 3. Open it in DCS or add it to the dedicated server mission list.
 4. Join an aircraft slot or use the available dynamic aircraft interface at a friendly base. Open **F10 → WARZONE MISSIONS** after joining.

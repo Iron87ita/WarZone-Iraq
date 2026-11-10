@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.0 — 2026-11-10
+
+- Published the supplied WarZone_IRAQ_IRON87_V3.0.miz mission and its SHA-256 checksum.
+- Updated the English and Italian download links and installation instructions.
+
 ## 2.0 — 2026-11-06
 
 - Published the supplied `WarZone_IRAQ_IRON87_V2.0_NORTH_BLUE_SOUTH_RED.miz` as the current mission, without changing its bytes or embedded scripts.
