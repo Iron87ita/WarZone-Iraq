@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.2 — 2026-11-11
+
+- Update Cargo drops F10 marker deliveries and Supply/Capture flights now use a requested cruise speed of 450 knots for NATO and RF.
+
 ## 3.0.1 — 2026-11-10
 
 - Removed USS John C. Stennis, its two NATO escorts, the carrier aircraft slots and the associated naval zones.
