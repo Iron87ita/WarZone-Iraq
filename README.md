@@ -1,4 +1,4 @@
-![WarZone Iraq campaign banner](bannerCampaign.png)
+![WarZone Iraq campaign banner](WarZone Iraq Banner.jpg)
 
 # WarZone Iraq
 
