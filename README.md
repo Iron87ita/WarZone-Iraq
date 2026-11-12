@@ -5,7 +5,7 @@
 **DCS World · Iraq · Modern dynamic sector campaign · Version 5.0.0**  
 Created by **IRON87ITA**.
 
-[Download v5.0.0]((https://github.com/Iron87ita/WarZone-Iraq/releases/tag/v5.0.0)) · [Install](INSTALLATION.md) · [F10 guide](F10_GUIDE.md) · [Sector map](SECTORS.md) · [Italiano](README.it.md)
+[Download v5.0.0]([(https://github.com/Iron87ita/WarZone-Iraq/releases/tag/v5.0.0)](https://github.com/Iron87ita/WarZone-Iraq/releases/download/v5.0.0/WarZone_IRAQ_IRON87.miz)) · [Install](INSTALLATION.md) · [F10 guide](F10_GUIDE.md) · [Sector map](SECTORS.md) · [Italiano](README.it.md)
 
 WarZone Iraq brings the WarZone Caucasus campaign logic to Iraq: a persistent battlefield with **BLUE in the north**, **RED in the south** and a progressive operational front. Both coalitions can request missions, control their own AI tempo, deploy support assets and fight over the next sector.
 
