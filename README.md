@@ -2,10 +2,10 @@
 
 # WarZone Iraq
 
-**DCS World · Iraq · Modern dynamic sector campaign · Version 3.0.2**  
+**DCS World · Iraq · Modern dynamic sector campaign · Version 5.0.0**  
 Created by **IRON87ITA**.
 
-[Download v3.0.2](https://github.com/Iron87ita/WarZone-Iraq/releases/download/v3.0.2/WarZone_IRAQ_IRON87_V3.0.2.miz) · [Install](INSTALLATION.md) · [F10 guide](F10_GUIDE.md) · [Sector map](SECTORS.md) · [Italiano](README.it.md)
+[Download v5.0.0]((https://github.com/Iron87ita/WarZone-Iraq/releases/tag/v5.0.0)) · [Install](INSTALLATION.md) · [F10 guide](F10_GUIDE.md) · [Sector map](SECTORS.md) · [Italiano](README.it.md)
 
 WarZone Iraq brings the WarZone Caucasus campaign logic to Iraq: a persistent battlefield with **BLUE in the north**, **RED in the south** and a progressive operational front. Both coalitions can request missions, control their own AI tempo, deploy support assets and fight over the next sector.
 
@@ -41,7 +41,7 @@ Both BLUE and RED EWRs use dedicated open emplacements. The placement rules requ
 ## Quick start
 
 1. Install DCS World, the **Iraq terrain** and the unit mods used by this mission. See [requirements](INSTALLATION.md#requirements).
-2. Download `WarZone_IRAQ_IRON87_V3.0.2.miz` and copy it to your DCS `Missions` folder.
+2. Download `WarZone_IRAQ_IRON87_V5.0.0.miz` and copy it to your DCS `Missions` folder.
 3. Open it in DCS or add it to your dedicated server mission list.
 4. Join a coalition and open **F10 → WARZONE MISSIONS**.
 
@@ -59,7 +59,7 @@ The actual DCS profile folder may be `DCS`, `DCS.openbeta` or a dedicated-server
 
 ## Package status
 
-Version 3.0.2 update Cargo drops F10 marker deliveries and Supply/Capture flights now use a requested cruise speed of 450 knots for NATO and RF.
+Version 5.0.0 update Cargo drops F10 marker deliveries and Supply/Capture flights now use a requested cruise speed of 450 knots for NATO and RF.
 
 ## Credits and feedback
 
