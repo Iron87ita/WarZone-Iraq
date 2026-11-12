@@ -41,7 +41,7 @@ Both BLUE and RED EWRs use dedicated open emplacements. The placement rules requ
 ## Quick start
 
 1. Install DCS World, the **Iraq terrain** and the unit mods used by this mission. See [requirements](INSTALLATION.md#requirements).
-2. Download `WarZone_IRAQ_IRON87_V5.0.0.miz` and copy it to your DCS `Missions` folder.
+2. Download `WarZone_IRAQ_IRON87.miz` and copy it to your DCS `Missions` folder.
 3. Open it in DCS or add it to your dedicated server mission list.
 4. Join a coalition and open **F10 → WARZONE MISSIONS**.
 
