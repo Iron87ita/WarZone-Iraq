@@ -2,7 +2,7 @@
 
 ## Territorial missions
 
-Open **F10 → WARZONE MISSIONS → REQUEST MISSION TYPE**, or use **REQUEST NEW MISSION (RANDOM)**.
+Open **F10 → WarZone - Flight → 01 Missions → REQUEST MISSION TYPE**, or use **REQUEST NEW MISSION (RANDOM)**.
 
 | Mission | Objective |
 |---|---|
@@ -16,7 +16,7 @@ CAP and BARCAP patrol progress requires the requesting player; the objective mus
 
 ## AI CONTROL
 
-Open **F10 → WARZONE MISSIONS → AI CONTROL**.
+Open **F10 → WarZone - Flight → 02 AI Control → Coalition operations**.
 
 - **Status / current limits** shows player counts, the selected profile and active forces.
 - **Operations tempo** offers AUTO, LOW, NORMAL, HIGH, OFFENSIVE and NEW LAUNCHES PAUSED.
@@ -38,7 +38,7 @@ Up to one AWACS and two tankers per coalition are available in addition. Operati
 
 ## DYNAMIC AI TASKS
 
-1. Open **F10 → WARZONE MISSIONS → DYNAMIC AI TASKS**.
+1. Open **F10 → WarZone - Flight → 01 Missions → DYNAMIC AI TASKS**.
 2. Select **Refresh target list**, then an entry in **ENEMY GROUP LIST**.
 3. Read **Briefing / position** and select **Accept task**.
 4. Use **Active task / F10 track** for the target position and current status.
@@ -47,13 +47,17 @@ One task can be assigned per player group, and one group can claim a target. The
 
 ## Shop and logistics
 
-Use the personal coalition command/shop menu to purchase assets and supplies. Deploy supported ground assets to a friendly zone, or choose marker-based physical cargo delivery. Logistics provides helicopter supply, infantry and CSAR operations. MQ-9/JTAC supports enemy-zone and nearby-marker tasking.
+Open **F10 → WarZone - Flight → 05 Credits** for personal procurement. Eligible kills and completed tasks award 10 additional personal credits. Land and stop at a friendly base to redeem pending rewards. Deploy supported ground assets to a friendly zone, or choose marker-based physical cargo delivery. Logistics provides helicopter supply, infantry and CSAR operations. MQ-9/JTAC supports enemy-zone and nearby-marker tasking.
 
 EWRs use dedicated open emplacements for both coalitions, including saved assets. Placement requires flat terrain, a 900 m building-free buffer, runway clearance and local obstacle checks. Native mission triggers clear trees only within the selected 180 m emplacement before the radar appears. Buildings are never removed. If no valid site is available, deployment is deferred or refused. EWR cargo may use a safe site near the requested marker; the operational coordinates are announced after deployment.
 
+## Reactive CAP
+
+Both coalitions can respond to offensive tasking or detected attacks. Open **F10 → WarZone - Coalition → 02 Air Support → Reactive CAP status** to see active responses and queued alerts. Kneeboard page 07 explains the response limits.
+
 ## Tankers
 
-Open **F10 → Tanker Support → Tanker status** to see which services are active.
+Open **F10 → WarZone - Coalition → 02 Air Support → Tanker status** to see which services are active.
 
 | Coalition | Service | Aircraft | Frequency | TACAN |
 |---|---|---|---|---|

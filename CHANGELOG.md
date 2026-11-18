@@ -1,5 +1,16 @@
 # Changelog
 
+## V6 — 2026-11-18
+
+- K1 AP joins the Qayyarah / Kirkuk front in S3. It starts RED at level 1 on a fresh campaign and brings the total to 43 land objectives across six sectors.
+- Both coalitions can launch reactive CAP in response to eligible campaign tasks and detected attacks. Pilots can check active flights and queued alerts under **WarZone - Coalition → 02 Air Support → Reactive CAP status**.
+- F10 now separates flight commands from coalition-wide commands. Request missions under **WarZone - Flight → 01 Missions** and check sector ownership under **WarZone - Coalition → 01 Campaign**.
+- Eligible kills and completed tasks award 10 additional personal credits. Land and stop at a friendly base to redeem pending rewards. CAS and SEAD also award coalition funds.
+- The general, BLUE and RED briefings now group these changes in an English V6 section. The eight-page kneeboard uses permanent page titles. Its overview points to pages 03, 07 and 08 and also appears in the mission briefing.
+
+Mission file: `WarZone_IRAQ_IRON87_V6.miz`  
+SHA-256: `10a473da95c50b9af0439ca7a080f0b48d34096f0c6e5b854d4cf5d29d6f8a5d`
+
 ## 3.0.2 — 2026-11-11
 
 - Update Cargo drops F10 marker deliveries and Supply/Capture flights now use a requested cruise speed of 450 knots for NATO and RF.

@@ -22,10 +22,10 @@ MOOSE, MIST and the campaign's supporting scripts are already embedded in the `.
 
 ## Install
 
-1. Download `WarZone_IRAQ_IRON87_V3.0.2.miz`.
+1. Download [WarZone_IRAQ_IRON87_V6.miz](https://github.com/Iron87ita/WarZone-Iraq/raw/refs/heads/main/WarZone_IRAQ_IRON87_V6.miz).
 2. Copy it into the `Missions` directory of your DCS Saved Games profile.
 3. Open it in DCS or add it to the dedicated server mission list.
-4. Join an aircraft slot or use the available dynamic aircraft interface at a friendly base. Open **F10 → WARZONE MISSIONS** after joining.
+4. Join an aircraft slot or use the available dynamic aircraft interface at a friendly base. Open **F10 → WarZone - Flight → 01 Missions** after joining.
 
 The mission uses the Modern configuration. The northern network begins BLUE; Kirkuk, Sulaimaniyah and the southern network begin RED. Some original slots have been reassigned to match the territory in which they are placed: Ka-50 Eagle and Haditha are RED; MiG-29A Mosul and the former RED Delta Ka-50 are BLUE.
 
@@ -34,7 +34,7 @@ The mission uses the Modern configuration. The northern network begins BLUE; Kir
 The embedded campaign keeps its dedicated internal filename:
 
 ```text
-Missions\Saves\Modern\WarZone_IRAQ_MODERN_V448_NORTH_BLUE_SOUTH_RED.lua
+Missions\Saves\Modern\WarZone_IRAQ_MODERN_NORTH_BLUE_SOUTH_RED.lua
 ```
 
 The path is relative to the active DCS Saved Games profile. Persistent saving requires the mission scripting environment to provide the file access used by the campaign (`lfs` and `io`). This repository does not modify your DCS installation or server configuration.
@@ -45,4 +45,4 @@ Zone ownership, sector progress, wallets and surviving shop assets are persisten
 
 ## Package integrity
 
-`SHA256SUMS.txt` contains checksums for the exact supplied `.miz` and banner. Verify the downloaded package against the checksum for its version.
+The [V6 changelog](CHANGELOG.md#v6--2026-11-18) lists the SHA-256 checksum for the published mission file.
